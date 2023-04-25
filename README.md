@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:D9C4E0,100:69a5e0&height=300&section=header&text=victoryCoding%20render&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:D9C4E0,100:69a5e0&height=300&section=header&text=victoryCoding&fontSize=70)
 
 
-<a href="https://victory-coding.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-69a5e0?style= social&logo=BLOG&logoColor=69a5e0"/></a>
+<a href="https://victory-coding.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-69a5e0?style=social&logo=BLOG&logoColor=69a5e0"/></a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victory940209&show_icons=true&theme=solarized-light)
