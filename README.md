@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **victory940209/victory940209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Egg&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Egg&color=0:EEFF00,100:69a5e0&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <a href="https://victory-coding.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-69a5e0?style= social&logo=BLOG&logoColor=69a5e0"/></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victory940209&show_icons=true&theme=solarized-light)
