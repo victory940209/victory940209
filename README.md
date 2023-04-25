@@ -12,12 +12,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:D9C4E0,100:69a5e0&height=300&section=header&text=victoryCoding-nl-welcome&fontSize=50&fontColor=D4FFFF)
 
-
-<a href="https://victory-coding.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-69a5e0?style=social&logo=BLOG&logoColor=69a5e0"/></a>
-<img src="https://img.shields.io/badge/spring-#6DB33F?style=for-the-badge&logo=spring&logoColor=black">
-
-![victory GitHub stats](https://github-readme-stats.vercel.app/api?username=victory940209&show_icons=true&theme=solarized-light)
-![victory github stats](https://github-readme-stats.vercel.app/api?username=victory940209&show_icons=true)
+  📫 ME 📫 </br>
+<a href="https://victory-coding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-69a5e0?style=flat-square&logo=tistory&logoColor=white"/></a>
+  </br>
+  </br>
+  </br>
+  ⚡ Skill ⚡</br>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/java-00A98F?style=flat-square&logo=java&logoColor=white"/></a>
+</br>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/apachekafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/></a>
+  
+  
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victory940209&show_icons=true&theme=solarized-light)
+</div>
