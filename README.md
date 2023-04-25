@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:D9C4E0,100:69a5e0&height=300&section=header&text=victoryCoding-nl-welcome&fontSize=50&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:D9C4E0,100:69a5e0&height=300&section=header&text=victoryCoding-nl-welcome&fontSize=50&fontColor=D4FFFF)
 
 
 <a href="https://victory-coding.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-69a5e0?style=social&logo=BLOG&logoColor=69a5e0"/></a>
