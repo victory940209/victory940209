@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   
   
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victory940209&langs_count=10&layout=compact)]([https://github.com/victory940209/victory940209](https://github.com/victory940209/victory940209))﻿
-![victory's GitHub stats](https://github-readme-stats.vercel.app/api?username=victory940209&show_icons=true&theme=solarized-light)
+<!--![victory's GitHub stats](https://github-readme-stats.vercel.app/api?username=victory940209&show_icons=true&theme=solarized-light)-->
 
 
 
